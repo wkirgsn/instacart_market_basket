@@ -1,5 +1,9 @@
 import numpy as np
 
+"""
+source:
+https://www.kaggle.com/mmueller/f1-score-expectation-maximization-in-o-n
+"""
 
 class F1Optimizer():
     def __init__(self):
