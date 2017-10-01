@@ -1,5 +1,7 @@
 """
 @author: Faron
+source:
+https://www.kaggle.com/mmueller/f1-score-expectation-maximization-in-o-n
 """
 import numpy as np
 import pandas as pd
